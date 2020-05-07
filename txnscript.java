@@ -19,6 +19,7 @@ import java.util.stream.Stream;
 
 public class txnscript
 {
+	
 	// coller ici les paramètres issu de Heroku
 	private static String jdbcHerokuMachine = "ec2-54-247-169-129.eu-west-1.compute.amazonaws.com" ;
 	private static String jdbcHerokuDatabase = "d3qcaa80b5clgv" ;
