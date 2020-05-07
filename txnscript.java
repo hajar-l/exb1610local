@@ -21,10 +21,10 @@ public class txnscript
 {
 	
 	// coller ici les paramètres issu de Heroku
-	private static String jdbcHerokuMachine = "" ;
-	private static String jdbcHerokuDatabase = "" ;
-	private static String jdbcHerokuUser = "" ;
-	private static String jdbcHerokuPass = "" ;
+	private static String jdbcHerokuMachine = "ec2-54-247-169-129.eu-west-1.compute.amazonaws.com:5432" ;
+	private static String jdbcHerokuDatabase = "d3qcaa80b5clgv" ;
+	private static String jdbcHerokuUser = "ugemvjhxtpkgxq" ;
+	private static String jdbcHerokuPass = "041acddc62838bf05a3fd7c60895d604bcc766f0685df5c57c0b48ee3b61ebce" ;
 
 
 // exemple MYSQL LOCAL
